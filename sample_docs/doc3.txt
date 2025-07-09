@@ -1,0 +1,1 @@
+Quick search algorithms help find information fast in large databases. Computer science algorithms like binary search and hash tables enable efficient information retrieval. Modern search engines use sophisticated algorithms to rank and retrieve relevant documents.
